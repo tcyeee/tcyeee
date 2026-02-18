@@ -2,7 +2,7 @@
 
 I’m a full-stack backend developer with 7 years of experience, mainly focused on building enterprise, banking, and municipal software systems. Outside of work, I also explore side projects involving AI, blockchain, and game modding.
 
-[tcyeee.top](https://tcyeee.top)
+
 
 [<img width="47px" src="./img/bilibili.svg" alt="bilibili">](https://space.bilibili.com/10879225)
 &nbsp;&nbsp;&nbsp;
