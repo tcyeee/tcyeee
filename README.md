@@ -4,8 +4,8 @@ I’m a full-stack backend developer with 7 years of experience, mainly focused 
 
 
 
-[<img width="47px" src="./img/bilibili.svg" alt="bilibili">](https://space.bilibili.com/10879225)
+[<img width="47px" src="https://cdn.simpleicons.org/bilibili" alt="bilibili">](https://space.bilibili.com/10879225)
 &nbsp;&nbsp;&nbsp;
-[<img width="50px" src="./img/redNote.svg" alt="xiaohongshu">](https://www.xiaohongshu.com/user/profile/5b9cf40e9a9c9300014062b4)
+[<img width="50px" src="https://cdn.simpleicons.org/xiaohongshu" alt="xiaohongshu">](https://www.xiaohongshu.com/user/profile/5b9cf40e9a9c9300014062b4)
 &nbsp;&nbsp;&nbsp;
-[<img width="20px" src="./img/twitter.svg" alt="twitter">](https://x.com/tcyeee)
+[<img width="20px" src="https://cdn.simpleicons.org/x" alt="twitter">](https://x.com/tcyeee)
