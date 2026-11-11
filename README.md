@@ -1,8 +1,10 @@
 ## Hello I'm Lucas👋
 
-I’m a full-stack backend developer with 7 years of experience, mainly focused on building enterprise, banking, and municipal software systems. Outside of work, I also explore side projects involving AI, blockchain, and game modding.
+Full-stack developer with 8 years of experience. I love programming and mainly work with Java, Rust, and blockchain technologies. I enjoy building useful tools and apps, and most of what I make is open source — maybe there's something here for you 😊
 
+**Tech Stack:** Java · Rust · Spring Boot · Vue · Flutter · Solidity · Web3
 
+[tcyeee.top](https://tcyeee.top)
 
 [<img width="47px" src="https://cdn.simpleicons.org/bilibili" alt="bilibili">](https://space.bilibili.com/10879225)
 &nbsp;&nbsp;&nbsp;
