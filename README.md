@@ -6,8 +6,8 @@ Full-stack developer with 8 years of experience. I love programming and mainly w
 
 [tcyeee.top](https://tcyeee.top)
 
-[<img width="47px" src="https://cdn.simpleicons.org/bilibili" alt="bilibili">](https://space.bilibili.com/10879225)
+[<img height="24px" src="https://cdn.simpleicons.org/bilibili/808080" alt="bilibili">](https://space.bilibili.com/10879225)
 &nbsp;&nbsp;&nbsp;
-[<img width="50px" src="https://cdn.simpleicons.org/xiaohongshu" alt="xiaohongshu">](https://www.xiaohongshu.com/user/profile/5b9cf40e9a9c9300014062b4)
+[<img height="24px" src="https://cdn.simpleicons.org/xiaohongshu/808080" alt="xiaohongshu">](https://www.xiaohongshu.com/user/profile/5b9cf40e9a9c9300014062b4)
 &nbsp;&nbsp;&nbsp;
-[<img width="20px" src="https://cdn.simpleicons.org/x" alt="twitter">](https://x.com/tcyeee)
+[<img height="24px" src="https://cdn.simpleicons.org/x/808080" alt="twitter">](https://x.com/tcyeee)
